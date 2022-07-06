@@ -29,3 +29,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"/>
 </div>
+
+###
+<p align="left"></p>
+
+###
+<div align="center">
+  <a href="https://github.com/pedrohenrique30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique30&layout=compact&langs_count=7&theme=algolia"/>
+</div>
