@@ -19,7 +19,7 @@
 <p align="left"></p>
 
 ###
-<h3 align="left">Programming languages ​​that I have experience with:</h3>
+<h3 align="left">Programming languages that I have experience with:</h3>
 
 ###
 <div align="left">
