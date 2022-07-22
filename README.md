@@ -1,7 +1,7 @@
 <h1 align="left">Hi there, I'm Pedro Henrique</h1>
 
 ###
-<p align="left">I'm currently unemployed<br>I'm studying javascript</p>
+<p align="left">- I'm currently unemployed<br>- I'm studying javascript</p>
 
 ###
 <p align="left"></p>
@@ -39,5 +39,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique30&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
