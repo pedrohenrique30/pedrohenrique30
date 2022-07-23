@@ -1,13 +1,13 @@
-<h1 align="left">Hi there, I'm Pedro Henrique</h1>
+<h1 align="left">Olá, eu sou o Pedro Henrique</h1>
 
 ###
-<p align="left">- I'm currently unemployed<br>- I'm studying javascript</p>
+<p align="left">Eu estou desempregado no momento<br>Estou estudando javascript</p>
 
 ###
 <p align="left"></p>
 
 ###
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/p.henriquedev" target="_blank">
@@ -19,7 +19,7 @@
 <p align="left"></p>
 
 ###
-<h3 align="left">Languages ​​and technologies with which I have experience:</h3>
+<h3 align="left">Linguagens e técnologias com as quais tenho experiência:</h3>
 
 ###
 <div align="left">
