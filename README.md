@@ -10,6 +10,9 @@
 <h3 align="left">Conecte-se comigo:</h3>
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/pedro-henrique-30-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/p.henriquedev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"/>
   </a>
