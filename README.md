@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou o Pedro Henrique</h1>
 
 ###
-<p align="left">Eu estou desempregado no momento<br>Estou estudando javascript</p>
+<p align="left">Desenvolvedor Front-end<br>Estou estudando ReactJS</p>
 
 ###
 <p align="left"></p>
