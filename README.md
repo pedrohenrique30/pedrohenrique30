@@ -1,7 +1,9 @@
 <h1 align="left">Olá, eu sou o Pedro Henrique</h1>
 
 ###
-<p align="left">Desenvolvedor Front-end<br>Estou estudando ReactJS</p>
+
+- Desenvolvedor Front-end
+- Estou estudando ReactJS
 
 ###
 <p align="left"></p>
@@ -35,4 +37,10 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrique30&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique30&layout=compact&langs_count=7&theme=react"/>
+</div>
 
