@@ -2,8 +2,6 @@
 
 ###
 
-- Estou estudando ReactJS
-
 ###
 <p align="left"></p>
 
