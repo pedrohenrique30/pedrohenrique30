@@ -2,7 +2,6 @@
 
 ###
 
-- Desenvolvedor Front-end
 - Estou estudando ReactJS
 
 ###
